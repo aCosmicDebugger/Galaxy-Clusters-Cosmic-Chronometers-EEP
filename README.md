@@ -11,9 +11,9 @@ And our results are summarized in the table:
 | ADD + SNeIa                                        | $0.069 \pm 0.106$             | [R. F. L. Holanda et. al. 2016](https://arxiv.org/abs/1606.07923) |
 | ADD + SNeIa + $T_{CMB}$                            | $−0.005 \pm 0.025$            | [R. F. L. Holanda et. al. 2016](https://arxiv.org/abs/1610.01512) |
 | Gas Mass Fraction + SNeIa + $T_{CMB}$             | $−0.020 \pm 0.027$            | [R. F. L. Holanda et. al. 2017](https://arxiv.org/abs/1612.09365) |
-| Gas Mass Fraction + Cosmic Chronometers (Case I)   | $−0.017^{+0.077}_{−0.075}$    | This Work                                                 |
-| Gas Mass Fraction + Cosmic Chronometers (Case II)  | $−0.115^{+0.362}_{−0.211}$    | This Work                                                 |
-| Gas Mass Fraction + Cosmic Chronometers (Case III) | $0.081^{+0.389}_{−0.359}$     | This Work                                                 |
+| Gas Mass Fraction + Cosmic Chronometers (Case I)   | $−0.017^{ +0.077 }_{ −0.075 }$    | This Work                                                 |
+| Gas Mass Fraction + Cosmic Chronometers (Case II)  | $−0.115^{ +0.362 }_{ −0.211 }$    | This Work                                                 |
+| Gas Mass Fraction + Cosmic Chronometers (Case III) | $0.081^{ +0.389 }_{ −0.359 }$     | This Work                                                 |
 
 
 
@@ -21,7 +21,7 @@ And our results are summarized in the table:
 
 ## Tools Used
 
-![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/50px-Python-logo-notext.svg.png) ![Jupyter Notebook](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/50px-Jupyter_logo.svg.png) ![Sci-Kit Learn](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/100px-Scikit_learn_logo_small.svg.png)
+![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/50px-Python-logo-notext.svg.png)      ![Jupyter Notebook](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/50px-Jupyter_logo.svg.png)         ![Sci-Kit Learn](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/150px-Scikit_learn_logo_small.svg.png)
 
 
 - Python
