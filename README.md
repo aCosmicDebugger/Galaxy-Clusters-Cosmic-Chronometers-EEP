@@ -31,9 +31,10 @@ And our results are summarized in the table:
 
 
 
+
 Feel free to explore the code and analysis in the associated files.
 For more details on my publication, see: [Journal of Cosmology and Astroparticle Physics](https://iopscience.iop.org/article/10.1088/1475-7516/2021/10/084/meta).
 <div style="background-color: Snow; padding: 10px; margin-top: 10px;">
-    <a href="https://htmlpreview.github.io/?https://github.com/aCosmicDebugger/Galaxy-Clusters-Cosmic-Chronometers-EEP/tree/main/Export%20Citation/bibtex.html" style="color: MidnightBlue;">Export Citation</a>
+    <a href="https://htmlpreview.github.io/?https://github.com/aCosmicDebugger/Galaxy-Clusters-Cosmic-Chronometers-EEP/bibtex.html" style="color: MidnightBlue;">Export Citation</a>
 </div>
 
