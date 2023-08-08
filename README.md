@@ -6,20 +6,15 @@ We achieve this by employing Gaussian Processes Regression (GPR) to reconstruct 
 
 And our results are summarized in the table:
 
-$$
-\begin{table}[]
-\centering
-\begin{tabular}{lll}
-Dataset Used                                       & $\eta_{0}$                                                            & $\mathbf{Reference}$                                                  \\
-ADD + SNeIa                                        & $0.069 \pm 0.106$                                                     & {[}R. F. L. Holanda et. al. 2016{]}(https://arxiv.org/abs/1606.07923) \\
-ADD + SNeIa + $T_{CMB}$                            & $−0.005 \pm 0.025$                                                    & {[}R. F. L. Holanda et. al. 2016{]}(https://arxiv.org/abs/1610.01512) \\
-Gas Mass Fraction+SNeIa+ $T_{CMB}$                 & $−0.020 \pm 0.027$                                                    & {[}R. F. L. Holanda et. al. 2017{]}(https://arxiv.org/abs/1612.09365) \\
-Gas Mass Fraction + Cosmic Chronometers (Case I)   & \begin{tabular}[c]{@{}l@{}}$−0.017^{+0.077}_{\\ −0.075}$\end{tabular} & $\mathbf{This Work}$                                                  \\
-Gas Mass Fraction + Cosmic Chronometers (Case II)  & \begin{tabular}[c]{@{}l@{}}$−0.115^{+0.362}_{\\ −0.211}$\end{tabular} & $\mathbf{This Work}$                                                  \\
-Gas Mass Fraction + Cosmic Chronometers (Case III) & $0.081^{+0.389}_{−0.359}$                                             & $\mathbf{This Work}$                                                 
-\end{tabular}
-\end{table}
-$$
+| Dataset Used                                       | $\eta_{0}$                    | Reference                                                 |
+| -------------------------------------------------- | ----------------------------- | --------------------------------------------------------- |
+| ADD + SNeIa                                        | $0.069 \pm 0.106$             | [R. F. L. Holanda et. al. 2016](https://arxiv.org/abs/1606.07923) |
+| ADD + SNeIa + $T_{CMB}$                            | $−0.005 \pm 0.025$            | [R. F. L. Holanda et. al. 2016](https://arxiv.org/abs/1610.01512) |
+| Gas Mass Fraction + SNeIa + $T_{CMB}$             | $−0.020 \pm 0.027$            | [R. F. L. Holanda et. al. 2017](https://arxiv.org/abs/1612.09365) |
+| Gas Mass Fraction + Cosmic Chronometers (Case I)   | $−0.017^{+0.077}_{−0.075}$    | This Work                                                 |
+| Gas Mass Fraction + Cosmic Chronometers (Case II)  | $−0.115^{+0.362}_{−0.211}$    | This Work                                                 |
+| Gas Mass Fraction + Cosmic Chronometers (Case III) | $0.081^{+0.389}_{−0.359}$     | This Work                                                 |
+
 
 
 
