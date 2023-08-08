@@ -21,7 +21,7 @@ And our results are summarized in the table:
 
 ## Tools Used
 
-![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/50px-Python-logo-notext.svg.png)      ![Jupyter Notebook](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/50px-Jupyter_logo.svg.png)         ![Sci-Kit Learn](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/150px-Scikit_learn_logo_small.svg.png)
+![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/50px-Python-logo-notext.svg.png)      ![Jupyter Notebook](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/50px-Jupyter_logo.svg.png)         ![Sci-Kit Learn](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/110px-Scikit_learn_logo_small.svg.png)
 
 
 - Python
@@ -35,6 +35,6 @@ And our results are summarized in the table:
 Feel free to explore the code and analysis in the associated files.
 For more details on my publication, see: [Journal of Cosmology and Astroparticle Physics](https://iopscience.iop.org/article/10.1088/1475-7516/2021/10/084/meta).
 <div style="background-color: Snow; padding: 10px; margin-top: 10px;">
-    <a href="https://htmlpreview.github.io/?https://github.com/aCosmicDebugger/Galaxy-Clusters-Cosmic-Chronometers-EEP/bibtex.html" style="color: MidnightBlue;">Export Citation</a>
+    <a href="https://htmlpreview.github.io/?https://github.com/aCosmicDebugger/Galaxy-Clusters-Cosmic-Chronometers-EEP/blob/main/bibtex.html" style="color: MidnightBlue;">Export Citation</a>
 </div>
 
