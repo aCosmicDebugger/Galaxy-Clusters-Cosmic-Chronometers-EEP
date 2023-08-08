@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>BibTex Citation</title>
+<style>
+  body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to bottom, black, darkgray);
+    color: white;
+  }
+  .container {
+    width: 60%;
+    margin: 100px auto;
+    background-color: gainsboro;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  }
+  .citation {
+    font-family: monospace;
+    background-color: whitesmoke;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 20px 0;
+    color: black; /* Text color changed to black */
+  }
+  .button {
+    display: inline-block;
+    background-color: goldenrod;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  .button:hover {
+    background-color: darkgoldenrod;
+  }
+</style>
+</head>
+<body>
+<div class="container">
+  <h1 style="text-align: center; color: black;">BibTex Citation</h1>
+  <div class="citation">
+    <pre>
+@article{Mendon_a_2021,
+    doi = {10.1088/1475-7516/2021/10/084},
+    url = {https://doi.org/10.1088%2F1475-7516%2F2021%2F10%2F084},
+    year = 2021,
+    month = {oct},
+    publisher = {{IOP} Publishing},
+    volume = {2021},
+    number = {10},
+    pages = {084},
+    author = {I.E.C.R. Mendon{\c{c}}a and Kamal Bora and R.F.L. Holanda and Shantanu Desai},
+    title = {Galaxy clusters, cosmic chronometers and the Einstein equivalence principle},
+    journal = {Journal of Cosmology and Astroparticle Physics}
+}
+    </pre>
+  </div>
+  <a href="#" class="button" onclick="downloadBibtex()">Download BibTex Citation</a>
+</div>
+
+<script>
+function downloadBibtex() {
+  const citationText = `@article{Mendon_a_2021,
+    doi = {10.1088/1475-7516/2021/10/084},
+    url = {https://doi.org/10.1088%2F1475-7516%2F2021%2F10%2F084},
+    year = 2021,
+    month = {oct},
+    publisher = {{IOP} Publishing},
+    volume = {2021},
+    number = {10},
+    pages = {084},
+    author = {I.E.C.R. Mendon{\c{c}}a and Kamal Bora and R.F.L. Holanda and Shantanu Desai},
+    title = {Galaxy clusters, cosmic chronometers and the Einstein equivalence principle},
+    journal = {Journal of Cosmology and Astroparticle Physics}
+}`;
+  const blob = new Blob([citationText], { type: "text/plain" });
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(blob);
+  a.download = "bibtex_citation.txt";
+  a.click();
+}
+</script>
+</body>
+</html>
+

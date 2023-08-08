@@ -1,0 +1,13 @@
+@article{Mendon_a_2021,
+	doi = {10.1088/1475-7516/2021/10/084},
+	url = {https://doi.org/10.1088%2F1475-7516%2F2021%2F10%2F084},
+	year = 2021,
+	month = {oct},
+	publisher = {{IOP} Publishing},
+	volume = {2021},
+	number = {10},
+	pages = {084},
+	author = {I.E.C.R. Mendon{\c{c}}a and Kamal Bora and R.F.L. Holanda and Shantanu Desai},
+	title = {Galaxy clusters, cosmic chronometers and the Einstein equivalence principle},
+	journal = {Journal of Cosmology and Astroparticle Physics}
+}
