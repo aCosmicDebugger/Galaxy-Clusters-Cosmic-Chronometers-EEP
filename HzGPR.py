@@ -89,7 +89,7 @@ l = best_params['l']
 GPR_Kernel =DotP(s1)+ConstantKernel(constant1)*RBF(l )
 
 # processo
-GPR = GaussianProcessRegressor(kernel=GPR_Kernel, alpha=150)
+GPR = GaussianProcessRegressor(kernel=GPR_Kernel, alpha=160)    # próximo GPR dar uma olhada na mudança 150-160 em alpha
 
 # fit
 GPR.fit(X, Y)
@@ -124,8 +124,10 @@ def H_GPR(z):
 
 if __name__ == '__main__':
 
-	print("Melhores parâmetros encontrados:")
+	print("Melhores valores para os hiperparâmetros do GPR:")
 	print(best_params)
+	H_GPR(0)
+	print("Melhor valor para a constante de Hubble usando GPR:", H0)
 
 	# Plot da predição:
 	fig, ax = plt.subplots(figsize=(10,6))

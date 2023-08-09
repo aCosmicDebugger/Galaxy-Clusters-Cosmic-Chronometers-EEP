@@ -1,5 +1,4 @@
 import sys, os
-# sys.path.insert(0,os.path.realpath(os.path.join(os.getcwd(),'..')))
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
