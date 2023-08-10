@@ -1,6 +1,6 @@
 # Galaxy Clusters, Cosmic Chronometers and the Einstein Equivalence Principle   
 [![DOI](https://zenodo.org/badge/DOI/10.1088/1475-7516/2021/10/084.svg)](https://doi.org/10.1088/1475-7516/2021/10/084)
-[![Inspire HEP](https://img.shields.io/badge/Inspire-HEP-blue)](https://inspirehep.net/literature/1933934)
+[![Inspire HEP](https://img.shields.io/badge/Inspire-HEP-orange)](https://inspirehep.net/literature/1933934)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--7182--7273-green)](https://orcid.org/0000-0001-7182-7273)
 
 
