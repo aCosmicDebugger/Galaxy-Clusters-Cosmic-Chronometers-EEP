@@ -23,7 +23,7 @@ And our results are summarized in the table:
 For more details on my publication, see: [arXiv](https://arxiv.org/abs/2107.14169v2).
 Export citation:
 <div style="background-color: Snow; padding: 10px; margin-top: 10px;">
-    <a href="https://htmlpreview.github.io/?https://github.com/aCosmicDebugger/Galaxy-Clusters-Cosmic-Chronometers-EEP/blob/main/bibtex.html" style="color: MidnightBlue;">bibtex.txtn</a>
+    <a href="https://htmlpreview.github.io/?https://github.com/aCosmicDebugger/Galaxy-Clusters-Cosmic-Chronometers-EEP/blob/main/bibtex.html" style="color: MidnightBlue;">bibtex.txt</a>
 </div>
 
 
