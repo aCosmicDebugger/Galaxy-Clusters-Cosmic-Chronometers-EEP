@@ -31,11 +31,11 @@ Export citation:
 ## Tools Used:
 
 
-- ![Python](https://img.shields.io/badge/Python-3.11-blue)(https://docs.python.org/3/)
-- ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-5.3.0-orange)(https://docs.jupyter.org/en/latest/)
-- ![Sci-Kit Learn](https://img.shields.io/badge/Sci--Kit%20Learn-1.2.2-yellow)(https://scikit-learn.org/stable/user_guide.html)
-- ![emcee](https://img.shields.io/badge/emcee-3.1.4-green)(https://emcee.readthedocs.io/en/stable/)
-- ![corner.py](https://img.shields.io/badge/corner.py-2.2.2-cerulean)(https://corner.readthedocs.io/en/latest/)
+- ![Python](https://img.shields.io/badge/Python-3.11-blue)
+- ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-5.3.0-orange)
+- ![Sci-Kit Learn](https://img.shields.io/badge/Sci--Kit%20Learn-1.2.2-yellow)
+- ![emcee](https://img.shields.io/badge/emcee-3.1.4-green)
+- ![corner.py](https://img.shields.io/badge/corner.py-2.2.2-cerulean)
 
 
 
