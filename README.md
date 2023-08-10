@@ -1,6 +1,6 @@
 # Galaxy Clusters, Cosmic Chronometers and the Einstein Equivalence Principle   
 [![DOI](https://zenodo.org/badge/DOI/10.1088/1475-7516/2021/10/084.svg)](https://doi.org/10.1088/1475-7516/2021/10/084)
-[![Inspire HEP](https://img.shields.io/badge/Inspire-HEP-blue)](https://inspirehep.net/authors/2606410)
+[![Inspire HEP](https://img.shields.io/badge/Inspire-HEP-blue)](https://inspirehep.net/literature/1933934)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--7182--7273-green)](https://orcid.org/0000-0001-7182-7273)
 
 
@@ -31,11 +31,11 @@ Export citation:
 ## Tools Used:
 
 
-- ![Python](https://img.shields.io/badge/Python-3.x-blue)
-- ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-Yes-orange)
-- ![Sci-Kit Learn](https://img.shields.io/badge/Sci--Kit%20Learn-Yes-yellow)
-- ![emcee](https://img.shields.io/badge/emcee-Yes-brightgreen)
-- ![corner.py](https://img.shields.io/badge/corner.py-Yes-yellow)
+- ![Python](https://img.shields.io/badge/Python-3.11-blue)(https://docs.python.org/3/)
+- ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-5.3.0-orange)(https://docs.jupyter.org/en/latest/)
+- ![Sci-Kit Learn](https://img.shields.io/badge/Sci--Kit%20Learn-1.2.2-yellow)(https://scikit-learn.org/stable/user_guide.html)
+- ![emcee](https://img.shields.io/badge/emcee-3.1.4-green)(https://emcee.readthedocs.io/en/stable/)
+- ![corner.py](https://img.shields.io/badge/corner.py-2.2.2-cerulean)(https://corner.readthedocs.io/en/latest/)
 
 
 
